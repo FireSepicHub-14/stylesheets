@@ -2,6 +2,8 @@
 個人用なので、今のとこノーLICENSEです。
 と、ご使用の際は一言ください。
 
+Tagの v○.○.○はリポジトリの更新回数です。
+
 ## h2-tag.css
 サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/sample-1.html)
 
