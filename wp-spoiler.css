@@ -1,0 +1,63 @@
+/* はじめに */
+/* WordPress Shortcodes Ultimateプラグインのspoiler専用です。(わんちゃん違う用途でも使えるかも) */
+
+
+
+
+/* 通常レイアウトとそろえる */
+.std {
+    margin:0px 15px 10px 15px;
+}
+
+/* 全体の背景色 */
+.bgc {
+    background-color: plum;
+}
+
+/* 破線の輪郭 */
+.dtd {
+    border: 2px;
+    border-color: #ddd;
+    border-style: bottom;
+}
+
+/* インラインブロック化 */
+.inl {
+    display:inline-block;
+    min-width: 300px;
+    vertical-align: top;
+}
+
+/* タイトルを大きく */
+.b-ttl .su-spoiler-title {
+    font-size: 1,1em;
+}
+
+/* アニメーションをoff */
+.no-trn .su-spoiler-content {
+    -webkit-transition: 0s;
+    transition: 0s;
+    -ie-transition: 0s;
+}
+
+/* タイトル背景色 */
+.orange .su-spoiler-title {
+    background: #ffeee0;
+}
+.yellow .su-spoiler-title {
+    background: #fdfcdc;
+}
+.blue .su-spoiler-title {
+    background: #e2f2ff;
+}
+.green .su-spoiler-title {
+    background: #ebffe9;
+}
+.pale .su-spoiler-title {
+    background: #f5faff;
+}
+
+/* nbxの装飾 (枠線とタイトル色) */
+.Orange {
+    border-color: #f1994f;
+}
