@@ -5,7 +5,7 @@
 Tagの v○.○.○はリポジトリの更新回数です。
 
 ## h2-tag.css
-サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/sample-1.html)
+サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/h2-tag.html)
 
 使うためのリンク
 [here](https://firesepichub-14.github.io/stylesheets/css/h2-tag.css)
@@ -16,7 +16,14 @@ Tagの v○.○.○はリポジトリの更新回数です。
 
 
 ## rainbow.css
-サンプルは[こちら](#)[準備中]
+サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/rainbow.css)[準備中]
 
 使うためのリンク
 [here](https://firesepichub-14.github.io/stylesheets/css/rainbow.css)
+
+
+## code.css
+サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/code.css)
+
+使うためのリンク
+[here](https://firesepichub-14.github.io/stylesheets/css/code.css)
