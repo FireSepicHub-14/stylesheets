@@ -243,5 +243,5 @@
   }
   @keyframes gaming_c {
         /* backgroundを移動させる */
-        100% { background-position-x: 200%; }
+        200% { background-position-x: 100%; }
   }
