@@ -27,3 +27,10 @@ Tagの v○.○.○はリポジトリの更新回数です。
 
 使うためのリンク
 [here](https://firesepichub-14.github.io/stylesheets/css/code.css)
+
+
+## custom_button.css
+サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/custom_button.html)
+
+使うためのリンク
+[here](https://firesepichub-14.github.io/stylesheets/css/custom_button.css)
