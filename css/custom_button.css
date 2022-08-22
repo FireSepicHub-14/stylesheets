@@ -50,7 +50,7 @@ a.btn-flat-sc {
   padding: 1.5rem 6rem;
   color: #fff;
   border-radius: 0;
-  background: #000;
+  background: rgb(135, 109, 238);
 }
 
 a.btn-flat-sc span {
@@ -64,7 +64,7 @@ a.btn-flat-sc:before {
   width: 150%;
   height: 500%;
   content: '';
-  -webkit-transition:;
+  -webkit-transition: ;
   transition: all .5s ease-in-out;
   -webkit-transform: translateX(-98%) translateY(-70%) rotate(135deg);
   transform: translateX(-98%) translateY(-70%) rotate(135deg);
