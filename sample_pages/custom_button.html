@@ -32,6 +32,12 @@
             $(this).text('PUSHED!');    //テキストの書き換え
         });
     });
+    $(function(){
+        $('.btn-flat-sc').click(function(){
+            $(this).addClass('copied');    //ボタンの色などを変更するためにクラスを追加
+            $(this).text('PUSHED!');    //テキストの書き換え
+        });
+    });
     </script>
 
 
@@ -83,6 +89,13 @@
         This<code>フラット  [黄色]</code>
     </p>
     <a href="" class="btn btn-flat">
+        <span>PUSH!</span>
+    </a>
+    <br><br><br><br>
+    <p>
+        This<code>フラット  [黄色] sc</code>
+    </p>
+    <a href="" class="btn btn-flat-sc">
         <span>PUSH!</span>
     </a>
     <br><br>

@@ -17,6 +17,14 @@ a.btn-flat {
   border-radius: 0;
   background: #000;
 }
+a.btn-flat-sc {
+  overflow: hidden;
+  padding: 1.5rem 6rem;
+  color: #fff;
+  border-radius: 0;
+  background: #000;
+}
+
 
 a.btn-flat span {
   position: relative;
