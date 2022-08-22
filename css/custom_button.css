@@ -17,14 +17,6 @@ a.btn-flat {
   border-radius: 0;
   background: #000;
 }
-a.btn-flat-sc {
-  overflow: hidden;
-  padding: 1.5rem 6rem;
-  color: #fff;
-  border-radius: 0;
-  background: #000;
-}
-
 
 a.btn-flat span {
   position: relative;
@@ -42,12 +34,52 @@ a.btn-flat:before {
   -webkit-transform: translateX(-98%) translateY(-70%) rotate(135deg);
   transform: translateX(-98%) translateY(-70%) rotate(135deg);
   background: #fff100;
+  -moz-transform: translateX(-98%) translateY(-70%) rotate(135deg);
+  -ms-transform: translateX(-98%) translateY(-70%) rotate(135deg);
+  -o-transform: translateX(-98%) translateY(-70%) rotate(135deg);
 }
 
 a.btn-flat:hover:before {
   -webkit-transform: translateX(-9%) translateY(-25%) rotate(135deg);
   transform: translateX(-9%) translateY(-25%) rotate(135deg);
 }
+
+/* sc */
+a.btn-flat-sc {
+  overflow: hidden;
+  padding: 1.5rem 6rem;
+  color: #fff;
+  border-radius: 0;
+  background: #000;
+}
+
+a.btn-flat-sc span {
+  position: relative;
+}
+
+a.btn-flat-sc:before {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 150%;
+  height: 500%;
+  content: '';
+  -webkit-transition:;
+  transition: all .5s ease-in-out;
+  -webkit-transform: translateX(-98%) translateY(-70%) rotate(135deg);
+  transform: translateX(-98%) translateY(-70%) rotate(135deg);
+  background: #fff100;
+  -moz-transform: translateX(-98%) translateY(-70%) rotate(135deg);
+  -ms-transform: translateX(-98%) translateY(-70%) rotate(135deg);
+  -o-transform: translateX(-98%) translateY(-70%) rotate(135deg);
+}
+
+a.btn-flat-sc:hover:before {
+  -webkit-transform: translateX(-9%) translateY(-25%) rotate(135deg);
+  transform: translateX(-9%) translateY(-25%) rotate(135deg);
+}
+
+
 
 
 /* 影絵ドットボタン */
