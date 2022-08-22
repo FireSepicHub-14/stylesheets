@@ -1,3 +1,6 @@
+/* coreのimport */
+@import url(https://firesepichub-14.github.io/stylesheets/css/custom_button_core.css);
+
 /* 影絵ドットボタン */
 a.shadow-dot {
     border: 2px solid #000;
