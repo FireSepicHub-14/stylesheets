@@ -228,5 +228,20 @@
   @keyframes gaming {
         /* backgroundを移動させる */
         100% { background-position-x: 200%; }
-  }
+}
 
+
+.gmg2-r_c {
+    /* 横長で虹色を作る */
+    background: linear-gradient(to right, Magenta, yellow, Cyan, Magenta) 0% center/200%;
+    animation: gaming_c 2s linear infinite;
+}
+.gmg2-l_c {
+    /* 横長で虹色を作る */
+    background: linear-gradient(to left, Magenta, yellow, Cyan, Magenta) 0% center/200%;
+    animation: gaming_c 2s linear infinite;
+  }
+  @keyframes gaming_c {
+        /* backgroundを移動させる */
+        100% { background-position-x: 200%; }
+  }
