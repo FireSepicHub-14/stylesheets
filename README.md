@@ -16,7 +16,7 @@ Tagの v○.○.○はリポジトリの更新回数です。
 
 
 ## rainbow.css
-サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/rainbow.css)[準備中]
+サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/rainbow.html)
 
 使うためのリンク
 [here](https://firesepichub-14.github.io/stylesheets/css/rainbow.css)
