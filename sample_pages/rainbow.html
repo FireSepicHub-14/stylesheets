@@ -7,10 +7,24 @@
     <title>SepicPage - CSS Sample Page</title>
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="https://firesepichub-14.github.io/stylesheets/css/rainbow.css">
+    <link rel="stylesheet" type="text/css" href="https://firesepichub-14.github.io/stylesheets/css/custom_button.css">
+
 </head>
 
 <body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.13/clipboard.min.js"></script>
 
+    <script>
+    var clipboard = new Clipboard('.shadow-dot-sc');    //clipboard.min.jsが動作する要素をクラス名で指定
+    //クリックしたときの挙動
+    $(function(){
+        $('.btn-flat-sc').click(function(){
+            $(this).addClass('copied');    //ボタンの色などを変更するためにクラスを追加
+            $(this).text('コピーしました!');    //テキストの書き換え
+        });
+    });
+    </script>
     <style>
         body{
             width:100%; /*ページ全体の幅は100%と指定する*/	
@@ -24,6 +38,12 @@
     </style>
 
     <h1>rainbow.css  サンプルページ</h1>
+    <p>
+        This<code>フラット  [黄色] sc</code>
+    </p>
+    <a class="btn btn-flat-sc" data-clipboard-text="https://firesepichub-14.github.io/stylesheets/css/rainbow.css">
+        <span>クリックでcssのURLをコピー!</span>
+    </a>
     <br><br><br><br><br>
     <a class="gmg1-r-1"><b><====== gmg1-r-1 ======></b></a>
     <p>gmg1-r-1はgmg1タグの中の右から1秒間隔ということ</p>
