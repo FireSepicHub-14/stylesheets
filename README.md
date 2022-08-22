@@ -23,7 +23,7 @@ Tagの v○.○.○はリポジトリの更新回数です。
 
 
 ## code.css
-サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/code.css)
+サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/code.html)
 
 使うためのリンク
 [here](https://firesepichub-14.github.io/stylesheets/css/code.css)
