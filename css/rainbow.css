@@ -1,3 +1,4 @@
+/* 12345→ */
 .gmg1-r-1 {
     /* フォントサイズなどを */
     /* font: bold 10em / 1 Verdana, Helvetica, Arial, sans-serif; */
@@ -15,38 +16,188 @@
     -webkit-text-fill-color: transparent;
 
     /* アニメーション指定  [time] */
-    animation: example 1s linear infinite;
-    }
-    /* 背景の横位置をズラす */
-    @keyframes example {
-        to { background-position-x: 200%; }
+    animation: gmg1-r 1s linear infinite;
 }
-
-.gmg1-l-1 {
-    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+.gmg1-r-2 {
+    background: linear-gradient(to right, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
     background-clip: text;
         -webkit-background-clip: text;
     text-fill-color: transparent;
         -webkit-text-fill-color: transparent;
-    animation: example 1s linear infinite;
-        -webkit-animation: example 1s linear infinite;
+    animation: gmg1-r 2s linear infinite;
+        -webkit-animation: gmg1-r 2s linear infinite;
 }
-    @keyframes example {
-        to { background-position-x: 200%; }
+.gmg1-r-3 {
+    background: linear-gradient(to right, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 3s linear infinite;
+        -webkit-animation: gmg1-r 3s linear infinite;
 }
-
+.gmg1-r-4 {
+    background: linear-gradient(to right, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 4s linear infinite;
+        -webkit-animation: gmg1-r 4s linear infinite;
+}
 .gmg1-r-5 {
     background: linear-gradient(to right, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
     background-clip: text;
         -webkit-background-clip: text;
     text-fill-color: transparent;
         -webkit-text-fill-color: transparent;
-    animation: example 5s linear infinite;
-        -webkit-animation: example 5s linear infinite;
+    animation: gmg1-r 5s linear infinite;
+        -webkit-animation: gmg1-r 5s linear infinite;
+}
+/* ←678910 */
+.gmg1-r-6 {
+    background: linear-gradient(to right, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 6s linear infinite;
+}
+.gmg1-r-7 {
+    background: linear-gradient(to right, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 7s linear infinite;
+        -webkit-animation: gmg1-r 7s linear infinite;
+}
+.gmg1-r-8 {
+    background: linear-gradient(to right, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 8s linear infinite;
+        -webkit-animation: gmg1-r 8s linear infinite;
+}
+.gmg1-r-9 {
+    background: linear-gradient(to right, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 9s linear infinite;
+        -webkit-animation: gmg1-r 9s linear infinite;
+}
+.gmg1-r-10 {
+    background: linear-gradient(to right, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 5s linear infinite;
+        -webkit-animation: gmg1-r 10s linear infinite;
 }
     /* 背景の横位置をズラす */
-    @keyframes example {
+    @keyframes gmg1-r {
         to { background-position-x: 200%; }
+}
+
+
+
+/* 左 */
+/* 12345→ */
+.gmg1-l-1 {
+    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 1s linear infinite;
+        -webkit-animation: gmg1-r 1s linear infinite;
+}
+.gmg1-l-2 {
+    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 2s linear infinite;
+        -webkit-animation: gmg1-r 2s linear infinite;
+}
+.gmg1-l-3 {
+    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 3s linear infinite;
+        -webkit-animation: gmg1-r 3s linear infinite;
+}
+.gmg1-l-4 {
+    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 4s linear infinite;
+        -webkit-animation: gmg1-r 4s linear infinite;
+}
+.gmg1-l-5 {
+    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 5s linear infinite;
+        -webkit-animation: gmg1-r 5s linear infinite;
+}
+/* ←678910 */
+.gmg1-l-6 {
+    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 6s linear infinite;
+        -webkit-animation: gmg1-r 6s linear infinite;
+}
+.gmg1-l-7 {
+    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 7s linear infinite;
+        -webkit-animation: gmg1-r 7s linear infinite;
+}
+.gmg1-l-8 {
+    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 8s linear infinite;
+        -webkit-animation: gmg1-r 8s linear infinite;
+}
+.gmg1-l-9 {
+    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 9s linear infinite;
+        -webkit-animation: gmg1-r 9s linear infinite;
+}
+.gmg1-l-10 {
+    background: linear-gradient(to left, #f00 0%, #f80 14.28%, #dd0 28.56%, #0d0 42.85%, #0dd 57.14%, #00f 71.42%, #e0e 85.71%, #f00 100%) 0% center / 200% auto;
+    background-clip: text;
+        -webkit-background-clip: text;
+    text-fill-color: transparent;
+        -webkit-text-fill-color: transparent;
+    animation: gmg1-r 10s linear infinite;
+        -webkit-animation: gmg1-r 10s linear infinite;
 }
 
 .gmg1-l-5 {
@@ -64,13 +215,18 @@
 
 
 
-.gmg2 {
+.gmg2-r {
     /* 横長で虹色を作る */
     background: linear-gradient(to right, Magenta, yellow, Cyan, Magenta) 0% center/200%;
+    animation: gaming 2s linear infinite;
+}
+.gmg2-l {
+    /* 横長で虹色を作る */
+    background: linear-gradient(to left, Magenta, yellow, Cyan, Magenta) 0% center/200%;
     animation: gaming 2s linear infinite;
   }
   @keyframes gaming {
         /* backgroundを移動させる */
         100% { background-position-x: 200%; }
   }
-    
+
