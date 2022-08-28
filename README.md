@@ -41,3 +41,10 @@ Tagの v○.○.○はリポジトリの更新回数です。
 
 使うためのリンク
 [here](https://firesepichub-14.github.io/stylesheets/css/background-8c8c8c.css)
+
+
+## wp-bkg-FFA07A.css
+サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/wp-bkg-FFA07A.html)
+
+使うためのリンク
+[here](https://firesepichub-14.github.io/stylesheets/css/wp-bkg-FFA07A.css)
