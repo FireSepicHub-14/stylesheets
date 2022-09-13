@@ -1,0 +1,56 @@
+/* 蛍光マーカー */
+.mark-pink {
+    background: linear-gradient(transparent 60%,#faa2b1 60%);
+}
+
+.mark-blue {
+    background: linear-gradient(transparent 60%,#6ceff4 60%);
+}
+
+.mark-green {
+    background: linear-gradient(transparent 60%, #8cff7d 60%);
+}
+
+.mark-yellow {
+    background: linear-gradient(transparent 60%, #f9ff52 60%);
+}
+
+.mark-orange {
+    background: linear-gradient(transparent 60%, #f9b737 60%);
+}
+
+.marker-orange {
+    background: linear-gradient(transparent 60%, #f9b737 60%);
+}
+
+
+/* 蛍光マーカー + 太字 */
+.mark-pin-b1 {
+    background: linear-gradient(transparent 60%,#faa2b1 60%);
+    font-weight: bold;
+}
+
+.mark-blu-b1 {
+    background: linear-gradient(transparent 60%,#6ceff4 60%);
+    font-weight: bold;
+}
+
+.mark-gre-b1 {
+    background: linear-gradient(transparent 60%, #8cff7d 60%);
+    font-weight: bold;
+}
+
+.mark-yel-b1 {
+    background: linear-gradient(transparent 60%, #f9ff52 60%);
+    font-weight: bold;
+}
+
+.mark-ora-b1 {
+    background: linear-gradient(transparent 60%, #f9b737 60%);
+    font-weight: bold;
+}
+
+.mark-gre-b2{
+    background:linear-gradient(transparent 75%, #7fff7f 75%);
+    font-weight:bold; 
+}
