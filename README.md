@@ -48,3 +48,10 @@ Tagの v○.○.○はリポジトリの更新回数です。
 
 使うためのリンク
 [here](https://firesepichub-14.github.io/stylesheets/css/wp-bkg-FFA07A.css)
+
+
+## margin-align.css
+サンプルは[こちら](https://firesepichub-14.github.io/stylesheets/sample_pages/margin-align.html)
+
+使うためのリンク
+[here](https://firesepichub-14.github.io/stylesheets/css/margin-align.css)
